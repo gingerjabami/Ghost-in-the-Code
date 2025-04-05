@@ -17,10 +17,12 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +43,12 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
