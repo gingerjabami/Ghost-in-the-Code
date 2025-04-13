@@ -34,6 +34,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +59,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
