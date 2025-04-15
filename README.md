@@ -8,6 +8,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -68,4 +69,28 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
