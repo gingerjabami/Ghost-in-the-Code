@@ -93,4 +93,8 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
