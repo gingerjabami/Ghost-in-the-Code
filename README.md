@@ -8,6 +8,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -97,4 +98,8 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0038-count-and-say) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
