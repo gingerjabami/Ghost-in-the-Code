@@ -18,6 +18,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
@@ -35,6 +36,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+| [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2050-count-good-numbers) |
 ## Backtracking
