@@ -10,6 +10,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -19,6 +20,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
@@ -104,4 +106,8 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
