@@ -10,6 +10,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2915-count-of-interesting-subarrays) |
@@ -82,6 +83,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,10 +112,12 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Queue
