@@ -9,6 +9,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -82,9 +83,11 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Search
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
@@ -127,9 +130,15 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
