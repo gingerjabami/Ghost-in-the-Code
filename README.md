@@ -42,6 +42,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
+| [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+| [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
 ## Prefix Sum
 |  |
 | ------- |
