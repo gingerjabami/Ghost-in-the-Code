@@ -7,6 +7,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -143,5 +144,6 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Greedy
 |  |
 | ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
