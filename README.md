@@ -54,6 +54,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2050-count-good-numbers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,6 +67,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3637-count-number-of-balanced-permutations](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -85,6 +87,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [0806-domino-and-tromino-tiling](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +124,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0038-count-and-say](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
