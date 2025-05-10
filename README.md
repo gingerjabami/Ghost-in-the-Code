@@ -20,6 +20,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [2915-count-of-interesting-subarrays](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -153,6 +154,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Counting
 |  |
 | ------- |
