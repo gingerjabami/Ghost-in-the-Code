@@ -55,6 +55,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2050-count-good-numbers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
