@@ -28,6 +28,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
@@ -38,6 +39,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -172,4 +174,12 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
