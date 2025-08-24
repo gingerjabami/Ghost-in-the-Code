@@ -6,6 +6,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -169,10 +170,12 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Design
 |  |
@@ -182,4 +185,12 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
