@@ -8,6 +8,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+| [1036-rotting-oranges](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -177,6 +178,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Design
@@ -195,5 +197,6 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
