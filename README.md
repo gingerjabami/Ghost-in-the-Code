@@ -6,6 +6,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [0463-island-perimeter](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0463-island-perimeter) |
@@ -70,6 +71,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -139,6 +141,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
 | [3637-count-number-of-balanced-permutations](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Prefix Sum
@@ -181,6 +184,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0463-island-perimeter) |
@@ -209,6 +213,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1036-rotting-oranges) |
