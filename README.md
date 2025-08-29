@@ -59,6 +59,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+| [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0486-predict-the-winner) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
@@ -73,6 +74,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -97,6 +99,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
+| [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0486-predict-the-winner) |
 | [0806-domino-and-tromino-tiling](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
@@ -217,5 +220,14 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0486-predict-the-winner) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
