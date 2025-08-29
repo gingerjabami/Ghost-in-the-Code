@@ -71,6 +71,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -100,6 +101,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0022-generate-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0486-predict-the-winner) |
@@ -140,6 +142,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
