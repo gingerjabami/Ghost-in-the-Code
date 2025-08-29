@@ -6,6 +6,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
@@ -72,6 +73,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
