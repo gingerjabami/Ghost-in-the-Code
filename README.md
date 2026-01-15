@@ -9,6 +9,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [0463-island-perimeter](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0486-predict-the-winner) |
@@ -56,6 +57,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0868-push-dominoes) |
 ## Math
 |  |
