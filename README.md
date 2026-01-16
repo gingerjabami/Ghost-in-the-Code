@@ -8,6 +8,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
@@ -39,6 +40,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -115,6 +117,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Search
@@ -126,6 +129,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -183,6 +187,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Tree
 |  |
