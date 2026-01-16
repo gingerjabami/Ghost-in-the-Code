@@ -6,6 +6,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0234-palindrome-linked-list) |
