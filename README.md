@@ -8,6 +8,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
@@ -110,6 +111,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0486-predict-the-winner) |
@@ -131,6 +133,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
