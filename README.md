@@ -12,6 +12,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [0463-island-perimeter](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0463-island-perimeter) |
@@ -163,6 +164,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0238-product-of-array-except-self) |
 | [2249-count-the-hidden-sequences](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2915-count-of-interesting-subarrays) |
