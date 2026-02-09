@@ -10,6 +10,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0238-product-of-array-except-self) |
@@ -113,6 +114,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0368-largest-divisible-subset) |
 | [0464-can-i-win](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0486-predict-the-winner) |
@@ -188,6 +190,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
