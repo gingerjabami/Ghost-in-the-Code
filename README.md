@@ -7,6 +7,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0079-word-search) |
@@ -40,6 +41,7 @@ An Overclocked Samurai, striving to become a Glitch Shinobi in the realm of Big 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gingerjabami/Ghost-in-the-Code/tree/master/0146-lru-cache) |
